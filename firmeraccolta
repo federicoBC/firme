@@ -1,0 +1,62 @@
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raccolta Firme</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #ff7e5f, #feb47b); /* Sfondo a gradienti */
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      color: #333; /* Colore del testo principale */
+      text-align: center;
+      padding: 20px;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      max-width: 600px;
+      background-color: rgba(255, 255, 255, 0.9); /* Colore di sfondo del contenitore con trasparenza */
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 1.8em;
+      margin-bottom: 30px;
+    }
+    .link {
+      font-size: 1.4em;
+      margin-top: 30px;
+    }
+    .link a {
+      color: #007bff;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    .link a:hover {
+      color: #0056b3;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Raccolta Firme</h1>
+    <h2>Stiamo facendo un'analisi su quante persone conoscono la scuola Galileo Galilei a Trento.</h2>
+    <div class="link">
+      👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSehHCwRz9zsnX8CCktU-16v7RVwSZa7E5h63C1gzyKy9W32MA/viewform?usp=sf_link
+      ">Sito web</a> 👈
+    </div>
+  </div>
+</body>
+</html>
